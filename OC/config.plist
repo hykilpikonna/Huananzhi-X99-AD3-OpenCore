@@ -1294,23 +1294,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>W86300X29V3GK</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>QKbZ0JiT</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>MacBook1,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>W86310Q3U9B</string>
 			<key>SystemUUID</key>
-			<string>06A02E6D-0832-4463-82DB-E6B7F8BB55C6</string>
+			<string>4C729FE7-77F5-4FC0-92A2-BB1986B56728</string>
 		</dict>
 		<key>Memory</key>
 		<dict>
