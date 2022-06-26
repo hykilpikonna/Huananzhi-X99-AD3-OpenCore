@@ -901,7 +901,7 @@
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
-			<integer>3</integer>
+			<integer>83</integer>
 		</dict>
 		<key>Entries</key>
 		<array/>
@@ -1223,7 +1223,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 npci=0x2000 slide=128 swd_panic=1 agdpmod=pikera</string>
+				<string>-v keepsyms=1 npci=0x2000 slide=128 swd_panic=1 agdpmod=pikera shikigva=40 shiki-id=Mac-7BA5B2D9E42DDD94</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
