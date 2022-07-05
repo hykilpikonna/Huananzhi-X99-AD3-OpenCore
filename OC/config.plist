@@ -1357,19 +1357,94 @@
 		<key>Memory</key>
 		<dict>
 			<key>DataWidth</key>
-			<integer>64</integer>
+			<integer>72</integer>
 			<key>ErrorCorrection</key>
 			<integer>3</integer>
 			<key>FormFactor</key>
 			<integer>9</integer>
 			<key>MaxCapacity</key>
-			<integer>68719476736</integer>
+			<integer>137438953472</integer>
 			<key>TotalWidth</key>
-			<integer>64</integer>
+			<integer>72</integer>
 			<key>Type</key>
 			<integer>24</integer>
 			<key>TypeDetail</key>
 			<integer>128</integer>
+			<key>Devices</key>
+			<array>
+				<dict>
+					<key>AssetTag</key>
+					<string>DIMM_A1_AssetTag</string>
+					<key>BankLocator</key>
+					<string>NODE 1</string>
+					<key>DeviceLocator</key>
+					<string>DIMM_A1</string>
+					<key>Manufacturer</key>
+					<string>Hynix Semiconductor</string>
+					<key>PartNumber</key>
+					<string>HMT84GL7AMR4C-RD</string>
+					<key>SerialNumber</key>
+					<string>4024E093</string>
+					<key>Size</key>
+					<string>32768</string>
+					<key>Speed</key>
+					<string>1866</string>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string>DIMM_B1_AssetTag</string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_B1</string>
+					<key>Manufacturer</key>
+					<string></string>
+					<key>PartNumber</key>
+					<string></string>
+					<key>SerialNumber</key>
+					<string></string>
+					<key>Size</key>
+					<string></string>
+					<key>Speed</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string>DIMM_C1_AssetTag</string>
+					<key>BankLocator</key>
+					<string>NODE 2</string>
+					<key>DeviceLocator</key>
+					<string>DIMM_C1</string>
+					<key>Manufacturer</key>
+					<string>Hynix Semiconductor</string>
+					<key>PartNumber</key>
+					<string>HMT84GL7AMR4C-RD</string>
+					<key>SerialNumber</key>
+					<string>4051B36C</string>
+					<key>Size</key>
+					<string>32768</string>
+					<key>Speed</key>
+					<string>1866</string>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string>DIMM_D1_AssetTag</string>
+					<key>BankLocator</key>
+					<string></string>
+					<key>DeviceLocator</key>
+					<string>DIMM_D1</string>
+					<key>Manufacturer</key>
+					<string></string>
+					<key>PartNumber</key>
+					<string></string>
+					<key>SerialNumber</key>
+					<string></string>
+					<key>Size</key>
+					<string></string>
+					<key>Speed</key>
+					<string></string>
+				</dict>
+			</array>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
