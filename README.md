@@ -1,6 +1,6 @@
 # Huananzhi X99-AD3 Hackintosh OpenCore for Monterey
 
-OpenCore 0.8.1
+OpenCore 0.8.1  
 Tested on macOS 12.4 Monterey
 
 ## Hardware Configuration
