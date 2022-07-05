@@ -35,4 +35,4 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [ ] 📶 Intel AX210 Bluetooth
 - [ ] 🔌 [USB Ports](USB.png)
 - [x] 💬 iMessage
-- [ ] 🎧 Realtek ALC892 Audio
+- [ ] 🎧 Realtek ALC662 Audio
