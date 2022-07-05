@@ -1386,9 +1386,9 @@
 					<key>SerialNumber</key>
 					<string>4024E093</string>
 					<key>Size</key>
-					<string>32768</string>
+					<integer>32768</integer>
 					<key>Speed</key>
-					<string>1866</string>
+					<integer>1866</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
@@ -1404,9 +1404,9 @@
 					<key>SerialNumber</key>
 					<string></string>
 					<key>Size</key>
-					<string></string>
+					<integer>0</integer>
 					<key>Speed</key>
-					<string></string>
+					<integer>0</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
@@ -1422,9 +1422,9 @@
 					<key>SerialNumber</key>
 					<string>4051B36C</string>
 					<key>Size</key>
-					<string>32768</string>
+					<integer>32768</integer>
 					<key>Speed</key>
-					<string>1866</string>
+					<integer>1866</integer>
 				</dict>
 				<dict>
 					<key>AssetTag</key>
@@ -1440,9 +1440,9 @@
 					<key>SerialNumber</key>
 					<string></string>
 					<key>Size</key>
-					<string></string>
+					<integer>0</integer>
 					<key>Speed</key>
-					<string></string>
+					<integer>0</integer>
 				</dict>
 			</array>
 		</dict>
