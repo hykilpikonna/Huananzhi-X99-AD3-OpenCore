@@ -24,6 +24,7 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 ## Features (TODO: Test them)
 
 - [ ] CPU Power Management
+- [x] Simulated NVRAM
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
   - [ ] DRM (?)
 - [ ] Sleep/Wake (?)
@@ -33,5 +34,5 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [ ] 📶 Intel AX210 WiFi
 - [ ] 📶 Intel AX210 Bluetooth
 - [ ] 🔌 [USB Ports](USB.png)
-- [ ] 💬 iMessage
+- [x] 💬 iMessage
 - [ ] 🎧 Realtek ALC892 Audio
