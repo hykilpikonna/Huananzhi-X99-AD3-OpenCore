@@ -29,7 +29,7 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [ ] Sleep/Wake (?)
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
-- [x] 📶 Ethernet
+- [x] 📶 Ethernet RTL8111
 - [ ] 📶 Intel AX210 WiFi
 - [ ] 📶 Intel AX210 Bluetooth
 - [ ] 🔌 [USB Ports](USB.png)
