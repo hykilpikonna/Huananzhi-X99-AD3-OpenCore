@@ -21,18 +21,20 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 |  -  | + International Shipping EMS                 | ￥448  CNY |
 |  -  | = Sum                                        | =￥4703    |
 
-## Features (TODO: Test them)
+## Features
 
-- [ ] CPU Power Management
+- [ ] CPU Power Management (Not Tested)
 - [x] Simulated NVRAM
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
   - [x] DRM (Tested with Amazon Prime)
-- [ ] Sleep/Wake (?)
+- [ ] Sleep/Wake (Low Priority)
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
 - [x] 📶 Ethernet RTL8111
 - [ ] 📶 Intel AX210 WiFi
 - [ ] 📶 Intel AX210 Bluetooth
-- [ ] 🔌 [USB Ports](USB.png)
+- [x] 🔌 USB Ports  
+Note: Due to the 15 ports limit, the top right USB 2.0 port in the back is disabled  
+Also, only one of the two front USB ports are mapped.
 - [x] 💬 iMessage
 - [x] 🎧 Realtek ALC662 Audio
