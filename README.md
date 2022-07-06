@@ -26,7 +26,7 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [ ] CPU Power Management
 - [x] Simulated NVRAM
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
-  - [ ] DRM (?)
+  - [x] DRM (Tested with Amazon Prime)
 - [ ] Sleep/Wake (?)
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
@@ -35,4 +35,4 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [ ] 📶 Intel AX210 Bluetooth
 - [ ] 🔌 [USB Ports](USB.png)
 - [x] 💬 iMessage
-- [ ] 🎧 Realtek ALC662 Audio
+- [x] 🎧 Realtek ALC662 Audio
