@@ -33,6 +33,8 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [x] 📶 Ethernet RTL8111
 - [ ] 📶 Intel AX210 WiFi
 - [ ] 📶 Intel AX210 Bluetooth
-- [ ] 🔌 [USB Ports](USB.png)
+- [x] 🔌 USB Ports  
+Note: Due to the 15 ports limit, the top left USB 2.0 port in the back is disabled  
+Also, only one of the two front USB ports are mapped.
 - [x] 💬 iMessage
 - [x] 🎧 Realtek ALC662 Audio
