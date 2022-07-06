@@ -34,7 +34,7 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 - [ ] 📶 Intel AX210 WiFi
 - [ ] 📶 Intel AX210 Bluetooth
 - [x] 🔌 USB Ports  
-Note: Due to the 15 ports limit, the top left USB 2.0 port in the back is disabled  
+Note: Due to the 15 ports limit, the top right USB 2.0 port in the back is disabled  
 Also, only one of the two front USB ports are mapped.
 - [x] 💬 iMessage
 - [x] 🎧 Realtek ALC662 Audio
