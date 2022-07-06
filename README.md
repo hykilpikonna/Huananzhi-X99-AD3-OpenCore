@@ -21,13 +21,13 @@ Here's my hardware configuration and the actual price I paid when I bought it ar
 |  -  | + International Shipping EMS                 | ￥448  CNY |
 |  -  | = Sum                                        | =￥4703    |
 
-## Features (TODO: Test them)
+## Features
 
-- [ ] CPU Power Management
+- [ ] CPU Power Management (Not Tested)
 - [x] Simulated NVRAM
 - [x] AMD RX 5xxx XT Graphics (Tested on 5600 XT)
   - [x] DRM (Tested with Amazon Prime)
-- [ ] Sleep/Wake (?)
+- [ ] Sleep/Wake (Low Priority)
   - [ ] Stay Asleep
   - [ ] Features Normal After Wake
 - [x] 📶 Ethernet RTL8111
