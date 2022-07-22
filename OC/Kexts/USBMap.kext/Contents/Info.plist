@@ -43,9 +43,7 @@
 				<key>kUSBMuxEnabled</key>
 				<false/>
 				<key>port-count</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AgAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>PRT1</key>
@@ -53,18 +51,14 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<key>PRT2</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
@@ -92,9 +86,7 @@
 				<key>kUSBMuxEnabled</key>
 				<false/>
 				<key>port-count</key>
-				<data>
-				AgAAAA==
-				</data>
+				<data>AgAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>PRT1</key>
@@ -102,18 +94,14 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 					<key>PRT2</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
@@ -141,44 +129,38 @@
 				<key>kUSBMuxEnabled</key>
 				<true/>
 				<key>port-count</key>
-				<data>
-				FQAAAA==
-				</data>
+				<data>FQAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>Comment</key>
+						<string>Back (2,1) 2.0 - Disabled</string>
 						<key>#port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 					</dict>
 					<key>HS02</key>
 					<dict>
 						<key>#port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 					</dict>
 					<key>HS03</key>
 					<dict>
+						<key>Comment</key>
+						<string>Back (1,1) 2.0 - Disabled</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
-						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<key>#port</key>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>HS04</key>
 					<dict>
 						<key>#port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 					</dict>
@@ -189,9 +171,7 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						BQAAAA==
-						</data>
+						<data>BQAAAA==</data>
 					</dict>
 					<key>HS06</key>
 					<dict>
@@ -200,9 +180,7 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
 					</dict>
 					<key>HS07</key>
 					<dict>
@@ -211,9 +189,7 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						BwAAAA==
-						</data>
+						<data>BwAAAA==</data>
 					</dict>
 					<key>HS08</key>
 					<dict>
@@ -222,9 +198,7 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						CAAAAA==
-						</data>
+						<data>CAAAAA==</data>
 					</dict>
 					<key>HS09</key>
 					<dict>
@@ -233,9 +207,7 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						CQAAAA==
-						</data>
+						<data>CQAAAA==</data>
 					</dict>
 					<key>HS10</key>
 					<dict>
@@ -244,29 +216,23 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						CgAAAA==
-						</data>
+						<data>CgAAAA==</data>
 					</dict>
 					<key>HS11</key>
 					<dict>
 						<key>#port</key>
-						<data>
-						CwAAAA==
-						</data>
+						<data>CwAAAA==</data>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 					</dict>
 					<key>HS12</key>
 					<dict>
 						<key>Comment</key>
-						<string>Front SS in 2.0</string>
+						<string>Front 1 SS in 2.0</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						DAAAAA==
-						</data>
+						<data>DAAAAA==</data>
 					</dict>
 					<key>HS13</key>
 					<dict>
@@ -275,9 +241,7 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						DQAAAA==
-						</data>
+						<data>DQAAAA==</data>
 					</dict>
 					<key>HS14</key>
 					<dict>
@@ -286,65 +250,53 @@
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
-						<data>
-						DgAAAA==
-						</data>
+						<data>DgAAAA==</data>
 					</dict>
 					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>
-						EAAAAA==
-						</data>
+						<data>EAAAAA==</data>
 					</dict>
 					<key>SS02</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>
-						EQAAAA==
-						</data>
+						<data>EQAAAA==</data>
 					</dict>
 					<key>SS03</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>
-						EgAAAA==
-						</data>
+						<data>EgAAAA==</data>
 					</dict>
 					<key>SS04</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>
-						EwAAAA==
-						</data>
+						<data>EwAAAA==</data>
 					</dict>
 					<key>SS05</key>
 					<dict>
-						<key>#port</key>
-						<data>
-						FAAAAA==
-						</data>
+						<key>Comment</key>
+						<string>Front 2 3.0 (Bluetooth)</string>
+						<key>port</key>
+						<data>FAAAAA==</data>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 					</dict>
 					<key>SS06</key>
 					<dict>
 						<key>Comment</key>
-						<string>Front 3.0</string>
+						<string>Front 1 3.0</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
-						<data>
-						FQAAAA==
-						</data>
+						<data>FQAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
