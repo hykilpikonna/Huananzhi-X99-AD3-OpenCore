@@ -1069,6 +1069,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1089,6 +1091,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1109,6 +1113,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1129,6 +1135,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1149,6 +1157,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1169,6 +1179,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1189,6 +1201,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1209,6 +1223,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1229,6 +1245,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1249,6 +1267,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1269,6 +1289,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1289,6 +1311,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1309,6 +1333,8 @@
 				<true/>
 				<key>Flavour</key>
 				<string>Auto</string>
+				<key>FullNvramAccess</key>
+				<true/>
 				<key>RealPath</key>
 				<false/>
 				<key>TextMode</key>
@@ -1604,6 +1630,8 @@
 				<true/>
 				<key>Path</key>
 				<string>OpenHfsPlus.efi</string>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
@@ -1614,6 +1642,8 @@
 				<true/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
@@ -1624,6 +1654,8 @@
 				<true/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Arguments</key>
 				<string></string>
 				<key>Comment</key>
