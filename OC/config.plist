@@ -515,7 +515,7 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>AirportItlwm.kext</string>
+				<string>AirportItlwmVentura.kext</string>
 				<key>Comment</key>
 				<string>Intel Wireless Card Drivers for macOS Monterey (Note: Please disable this for other versions)</string>
 				<key>Enabled</key>
