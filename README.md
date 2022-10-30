@@ -3,6 +3,9 @@
 OpenCore 0.8.5  
 Tested on macOS 13.0 Ventura
 
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/22280294/198863997-bcb81b7c-6ed8-43ae-a83d-76049300fb20.png">
+
+
 ## Hardware Configuration
 
 Here's my hardware configuration and the actual price I paid when I bought it around March 2022 (including tax and local shipping fees).
