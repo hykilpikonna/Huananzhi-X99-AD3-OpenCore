@@ -922,6 +922,8 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<false/>
+			<key>DisableIoMapperMapping</key>
+			<false/>
 		</dict>
 		<key>Scheme</key>
 		<dict>
@@ -967,6 +969,8 @@
 			<integer>0</integer>
 			<key>Timeout</key>
 			<integer>5</integer>
+			<key>InstanceIdentifier</key>
+			<string></string>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1713,6 +1717,10 @@
 			<integer>0</integer>
 			<key>UgaPassThrough</key>
 			<false/>
+			<key>GopBurstMode</key>
+			<false/>
+			<key>InitialMode</key>
+			<string>Auto</string>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -1752,6 +1760,8 @@
 			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
+			<key>PciIo</key>
+			<false/>
 		</dict>
 		<key>Quirks</key>
 		<dict>
@@ -1782,6 +1792,10 @@
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
+			<false/>
+			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
